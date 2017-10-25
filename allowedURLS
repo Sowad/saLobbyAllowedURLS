@@ -1,11 +1,13 @@
 # saLobbyAllowedURLS
 This is the list of allowed URLs that you can send to the shoutbox and forum in general.
 
-- = Anything before or after the domain name specified
+* = Anything before or after the domain name specified
 
-https://-salobby.net-
-https://-steamcommunity.com-
-https://-imgur.com-
-https://-pig.gy-
-https://-discordapp.com-
-https://youtube.com/-
+https://*salobby.net*
+https://*steamcommunity.com*
+https://*imgur.com*
+https://*pig.gy*
+https://*discordapp.com*
+https://youtube.com/*
+https://facebook.com/*
+https://twitter.com/*
